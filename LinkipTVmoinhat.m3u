@@ -1,0 +1,686 @@
+#EXTM3U
+#EXTINF:32,VTV1
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0,VTV2
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0,VTV3
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0,VTV4
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0,VTV5
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0,VTV7
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTV8
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTV9
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0, VTV C#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0,VTV5 TNB
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTV5 TN
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HTV1 HD
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HTV2 HD
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HTV3 HD
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HTV Key HD
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HTV7 HD
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0,HTV9 HD
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HTV Th#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,THVL1 HD - V#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0,THVL2 HD - V#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,THVL3 HD - V#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,THVL4 HD - V#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,AN NINH TV HD
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,QPVN
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HTVC Thu#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HTVC DU L#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HTVC GIA #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HTVC Ph#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HTVC Phim HD
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HTVC PLUS
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HTVC CA NH#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0, Kix
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Da Vinci
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Outdoor Channel
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Asian Food Network
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,THLC _ TH Lào Cai
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,YTV HD _ TH Yên Bái
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/yenbai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HBTV HD _ TH Hòa Bình
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/hoabinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,LTV HD _ TH Lai Châu
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HGTV _ TH Hà Giang
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,CRTV HD _ TH Cao B#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,TBK HD _ TH B#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/backan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,LSTV HD _ TH L#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,TTV HD _ TH Tuyên Quang
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,TN1 HD _ TH Thái Nguyên
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,PTV HD _ TH Phú Th#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BGTV _ TH B#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/bacgiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,QTV1 HD _ TH Qu#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,QTV3 HD _ TH Qu#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BTV _ TH B#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,H1 HD _ TH Hà N#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,H2 HD _ TH Hà N#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/hanoitv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,THD _ TH H#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/haiduong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,THP HD _ TH TP. H#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,NTV HD _ TH Ninh Bình
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,TBTV HD _ TH Thái Bình
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/thaibinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VP HD _ TH V#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/vinhphuc_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,NTV HD _ TH Ngh#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HTTV HD _ TH Hà T#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,QRTV HD _ TH Qu#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,DaNangTV1 HD _ TH TP. #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,DaNangTV2 HD _ TH TP. #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,QRT HD _ TH Qu#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,PTQ _ TH Qu#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BTV _ TH Bình #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,PTP HD _ TH Phú Yên
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/phuyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,KTV HD _ TH Khánh Hòa
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,NTV HD _ TH Ninh Thu#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BTV HD _ TH Bình Thu#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/binhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,KRT _ TH Kon Tum
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,THGL HD _ TH Gia Lai
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,DRT HD _ TH #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,LTV HD _ TH Lâm #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BPTV1 HD _ TH Bình Ph#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BTV1 HD _ TH Bình D#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BTV2 HD _ TH Bình D#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BTV9 B Channel
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,TTV11 _ TH Tây Ninh
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BRT HD _ TH Bà R#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,TH#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,TH#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,THTG HD _ TH Ti#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/tiengiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,ATV HD _ TH An Giang
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,THBT HD _ TH B#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,THTV HD _ TH Trà Vinh
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/travinh_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HGTV HD _ TH H#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/haugiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,KG _ TH Kiên Giang
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BLTV HD _ TH B#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,CTV HD _ TH Cà Mau
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,THTPCT HD _ TH TP. C#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,STV _ TH S#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,THHN _ TH Hà Nam
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/hanam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HY _ TH H#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,NTV _ TH Nam #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/namdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,TTV _ TH Thanh Hóa
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,QBTV _ TH Qu#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,TRT _ TH Th#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BPTV2 _ TH Bình Ph#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,LA34 _ TH Long An
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/longan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,STV1 _ TH Sóc Tr#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Kix
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/kix/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Happy Kids HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Woman HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Man
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Planet Earth HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Dr Fit HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Music box
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Outdoor HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/outdoorhd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Channel News Asia
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/channelnewsasia/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,AFN HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/afnhd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,HGTV
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,KBS World
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/kbsworld/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,NHK
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/nhk/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,France 24
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/france24/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,CNBC SD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/cnbcsd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Arirang
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/arirang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,DaVinci HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Box Hits
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Box Movie 1 HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Hollywood Classic HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,In The Box
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,SCTV 2 - TodayTV
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/sctv2hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab 1 - Vie Gi#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab 2 - Phim Vi#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab10 - On Cine HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab10hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab19 #EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab 8 Bibi SD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab 21- Cartoon Kids HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Vtvcab 4 #EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab 5 - E Channel HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab 12 - StyleTV HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab15 #EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Vtvcab17 #EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab 20 - V Family HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab 22 - Life TV HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab 9 - InfoTV HD
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab13-On Homeshopping
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,O2TV
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,VTVcab 23 - Golf Channel
+#EXTVLCOPT:network-caching=1000
+https://xem.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0,Apsara TV11 
+#EXTVLCOPT:network-caching=1000
+https://live.ams.com.kh/app/stream/playlist.m3u8
+#EXTINF:0,Bayon TV
+#EXTVLCOPT:network-caching=1000
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:0,Bayon TV 
+#EXTVLCOPT:network-caching=1000
+https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
+#EXTINF:0,BTV News 
+#EXTVLCOPT:network-caching=1000
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+#EXTINF:0,CNC
+#EXTVLCOPT:network-caching=1000
+http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
+#EXTINF:0,CTN
+#EXTVLCOPT:network-caching=1000
+http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
+#EXTINF:0,CTV8 HD
+#EXTVLCOPT:network-caching=1000
+http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
+#EXTINF:0,My TV
+#EXTVLCOPT:network-caching=1000
+http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
+#EXTINF:0,CTV 9
+#EXTVLCOPT:network-caching=1000
+https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
+#EXTINF:0,CTV 9 
+#EXTVLCOPT:network-caching=1000
+https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m3u8
+#EXTINF:0,Fresh News 
+#EXTVLCOPT:network-caching=1000
+https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:0,Hang Meas HDTV 
+#EXTVLCOPT:network-caching=1000
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+#EXTINF:0,iTV HD
+#EXTVLCOPT:network-caching=1000
+http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
+#EXTINF:0,MSJ TV 
+#EXTVLCOPT:http-referrer=https://www.iptvservice.site/
+#EXTVLCOPT:network-caching=1000
+https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
+#EXTINF:0,MSJ TV 
+#EXTVLCOPT:network-caching=1000
+http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
+#EXTINF:0,Netlink TV 
+#EXTVLCOPT:network-caching=1000
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:0,NTV
+#EXTVLCOPT:network-caching=1000
+http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
+#EXTINF:0,PNN 
+#EXTVLCOPT:network-caching=1000
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
+#EXTINF:0,Rasmey Hang Meas HDTV 
+#EXTVLCOPT:network-caching=1000
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+#EXTINF:0,SEATV 
+#EXTVLCOPT:network-caching=1000
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:0,SEATV-Radio 
+#EXTVLCOPT:network-caching=1000
+https://fmseatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:0,Town TV
+#EXTVLCOPT:network-caching=1000
+https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
+#EXTINF:0,Town TV 
+#EXTVLCOPT:network-caching=1000
+https://live.kh.malimarcdn.com/live/towntv.stream/playlist.m3u8
+#EXTINF:0,TV 3 
+#EXTVLCOPT:network-caching=1000
+https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
+#EXTINF:0,TV5 Cambodia
+#EXTVLCOPT:network-caching=1000
+http://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8
+#EXTINF:0,TV5 Cambodia 
+#EXTVLCOPT:network-caching=1000
+https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
+#EXTINF:0,TV5 Cambodia 
+#EXTVLCOPT:network-caching=1000
+https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+#EXTINF:0,TVK 
+#EXTVLCOPT:network-caching=1000
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:0,TVK 2 
+#EXTVLCOPT:network-caching=1000
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:0,WIKI TV 
+#EXTVLCOPT:network-caching=1000
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:0, WWE Network
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/wwenw
+#EXTINF:0,AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://125hvt.ddns.net:21585/axn/index.m3u8
+#EXTINF:0,CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://125hvt.ddns.net:21585/cnn/index.m3u8
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://125hvt.ddns.net:21585/discovery/index.m3u8
+#EXTINF:0,Fashion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://125hvt.ddns.net:21585/ftv/index.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://125hvt.ddns.net:21585/hbo/index.m3u8
+#EXTINF:0,Love Nature 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0, HBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+#EXTINF:0, Cinemax HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+#EXTINF:0, Cinema World
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+#EXTINF:0, Animax HD
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165081
+#EXTINF:0, Boomerang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/303873
+#EXTINF:0, Cartoon Network HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#EXTINF:0, BabyTV
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/65780
+#EXTINF:0, Dreamworks
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+#EXTINF:0, Love Nature 4K
+#EXTVLCOPT:network-caching=1000
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0, BBC Earth
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/171979
+#EXTINF:0, BBC Lifestyle
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264747
+#EXTINF:0, BBC Cbeebies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+#EXTINF:0, BBC World News
+#EXTVLCOPT:network-caching=1000
+http://p1.cvtv.xyz:81/bbcn?token=live
+#EXTINF:0, Arirang
+#EXTVLCOPT:network-caching=1000
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:0, Bloomberg
+#EXTVLCOPT:network-caching=1000
+http://p1.cvtv.xyz:81/bb?token=live
+#EXTINF:0, CNBC
+#EXTVLCOPT:network-caching=1000
+http://p1.cvtv.xyz:81/cnbc?token=live
+#EXTINF:0, CNN
+#EXTVLCOPT:network-caching=1000
+http://kstv.us:8080/live/Wzt43zDP8x/2355011455/47760.ts
+#EXTINF:0, CNA
+#EXTVLCOPT:network-caching=1000
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0, CGTN
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/269817.ts
+#EXTINF:0, CGTN Documentary
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/323620.ts
+#EXTINF:0, TV5Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:0, DW
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:0, Da Vinci HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:network-caching=1000
+https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh
+#EXTINF:0, France 24
+#EXTVLCOPT:network-caching=1000
+http://p1.cvtv.xyz:81/f24?token=live
+#EXTINF:0, KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:0, NHK World
+#EXTVLCOPT:network-caching=1000
+http://p1.cvtv.xyz:81/nhkw?token=live
+#EXTINF:0, Al Jazeera English
+#EXTVLCOPT:network-caching=1000
+https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
+#EXTINF:0, TRT World
+#EXTVLCOPT:network-caching=1000
+http://p1.cvtv.xyz:81/trtw?token=live
+#EXTINF:0, Animal Planet
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157532
+#EXTINF:0, Discovery
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:0, Discovery Asia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+http://toh-pan.xyz:8080/live/Bingbrown11/7066263203/856867.ts
+#EXTINF:0, AXN HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+http://toh-pan.xyz:8080/live/Bingbrown11/7066263203/856843.ts
+#EXTINF:0,Rock Entertainment
+#EXTVLCOPT:http-user-agent="KIIP"
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298565
+#EXTINF:0,Rock Action
+#EXTVLCOPT:http-user-agent="KIIP"
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298490
+#EXTINF:0, Outdoor Channel
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:network-caching=1000
+https://tv.TruyenHinh.Click/CoBan/outdoorhd/TuyetDoiKhongKinhDoanh
+#EXTINF:0, History HD
+#EXTVLCOPT:network-caching=1000
+https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
+#EXTINF:0, DMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+#EXTINF:0, ABC Australia
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/ABC
+#EXTINF:0, Fashion TV
+#EXTVLCOPT:network-caching=1000
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
+#EXTINF:0, KIX HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0, TLC
+#EXTVLCOPT:network-caching=1000
+https://iptvvn.freeddns.org:10444/live/286ZsrVfAM/vnh8paR4dS/367.ts
+#EXTINF:0, Warner TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+#EXTINF:0, Loupe 4K
+#EXTVLCOPT:network-caching=1000
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:0, RTHK 31
+#EXTVLCOPT:network-caching=1000
+https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+#EXTINF:0, RTHK 32
+#EXTVLCOPT:network-caching=1000
+https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+#EXTINF:0, RTHK 33
+#EXTVLCOPT:network-caching=1000
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:0, RTHK 34
+#EXTVLCOPT:network-caching=1000
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+#EXTINF:0, RTHK 35
+#EXTVLCOPT:network-caching=1000
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+#EXTINF:0, HOY TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.132.us.kg/live/hoy/stream.m3u8
+#EXTINF:0,TVB Jade
+#EXTVLCOPT:network-caching=1000
+http://p1.cvtv.xyz:81/Jade?token=live
+#EXTINF:0,TVB Jade SD
+#EXTVLCOPT:network-caching=1000
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:0,TVB Jade 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.132.us.kg/live/fct4k/stream.m3u8
+#EXTINF:0,TVB Plus
+#EXTVLCOPT:network-caching=1000
+http://grandprix2023.asuscomm.com:8892/bysid/82
+#EXTINF:0,TVB News
+#EXTVLCOPT:network-caching=1000
+http://grandprix2023.asuscomm.com:8892/bysid/83
+#EXTINF:0,TVB Pearl
+#EXTVLCOPT:network-caching=1000
+http://grandprix2023.asuscomm.com:8892/bysid/2
+#EXTINF:0, Phoenix Hong Kong
+#EXTVLCOPT:network-caching=1000
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:0, ViuTV Six
+#EXTVLCOPT:network-caching=1000
+http://m.osvs.asia:8000/bysid/96
+#EXTINF:0, ViuTV
+#EXTVLCOPT:network-caching=1000
+http://m.osvs.asia:8000/bysid/99
+#EXTINF:0, TDM Cantonese
+#EXTVLCOPT:network-caching=1000
+http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8

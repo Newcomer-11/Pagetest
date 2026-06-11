@@ -16,7 +16,7 @@ http://binvychi.duckdns.org:6000/udp/225.1.1.131:30120
 http://binvychi.duckdns.org:6000/udp/225.1.2.236:30120
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8Mbps)
 http://binvychi.duckdns.org:6000/udp/225.1.1.108:30120
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/78/VTV6_logo_%282026%29_%282%29.png",VTV6 (HD 8Mbps)
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 (HD 8Mbps)
 http://binvychi.duckdns.org:6000/udp/225.1.2.154:30120
 #EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
 http://binvychi.duckdns.org:6000/udp/225.1.2.245:30120
